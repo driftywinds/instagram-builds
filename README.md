@@ -52,4 +52,10 @@ Some other projects of mine: -
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=driftywinds/instagram-builds&type=Date)](https://star-history.com/#driftywinds/instagram-builds&Date)
+<a href="https://www.star-history.com/?repos=driftywinds%2Finstagram-builds&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=driftywinds/instagram-builds&type=date&theme=dark&legend=top-left&sealed_token=qBt1M5cDUC1DjIWYfcKcK_g2q1_YlfniNDmKhEx_rkyOf-ZNb1mB6g5mCWo-5wL28mlTSYXceQkpL4b5ZbkX1VTBNpWKq0BAQm2WaX6o-iI455pqv-FJcA" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=driftywinds/instagram-builds&type=date&legend=top-left&sealed_token=qBt1M5cDUC1DjIWYfcKcK_g2q1_YlfniNDmKhEx_rkyOf-ZNb1mB6g5mCWo-5wL28mlTSYXceQkpL4b5ZbkX1VTBNpWKq0BAQm2WaX6o-iI455pqv-FJcA" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=driftywinds/instagram-builds&type=date&legend=top-left&sealed_token=qBt1M5cDUC1DjIWYfcKcK_g2q1_YlfniNDmKhEx_rkyOf-ZNb1mB6g5mCWo-5wL28mlTSYXceQkpL4b5ZbkX1VTBNpWKq0BAQm2WaX6o-iI455pqv-FJcA" />
+ </picture>
+</a>
