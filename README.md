@@ -4,7 +4,7 @@ Repository for the releases of Instagram Piko builds compiled from Morphe Manage
 > [!IMPORTANT]  
 > **You need GmsCore (or otherwise called microG) to use this app. You can find it [here](https://github.com/MorpheApp/MicroG-RE).**
 
-> I have an F-Droid repo available [here](https://fdroid.drifty.win/repo/) as a backup in case GitHub ever takes this repository down. It includes YT Music builds too.
+> I have an F-Droid repo available [here](https://fdroid.drifty.win/repo/) as a backup in case GitHub ever takes this repository down. It includes other builds too.
 
 > [!TIP]
 > Builds are also availble on my Telegram channel [here](https://t.me/driftysYTbuilds).
