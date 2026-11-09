@@ -1,5 +1,5 @@
-# Instagram Piko builds releases
-Repository for the releases of Instagram Piko builds compiled from Morphe Manager with custom branding for identification.
+# Instagram (modded) builds releases
+Repository for the releases of modded Instagram builds compiled from Morphe Manager with custom branding for identification.
 
 > [!IMPORTANT]  
 > **You need GmsCore (or otherwise called microG) to use this app. You can find it [here](https://github.com/MorpheApp/MicroG-RE).**
