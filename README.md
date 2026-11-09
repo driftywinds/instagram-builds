@@ -13,7 +13,7 @@ Repository for the releases of Instagram Piko builds compiled from Morphe Manage
 
 [<img src="https://raw.githubusercontent.com/driftywinds/driftywinds/refs/heads/main/Images/custom_badge_obtainium.png"
     alt="Get it on Obtanium"
-    height="75">](https://github.com/driftywinds/instagram-builds/releases)
+    height="75">](https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/driftywinds/instagram-builds)
 &nbsp;&nbsp;&nbsp;
 [<img src="https://upload.wikimedia.org/wikipedia/commons/9/96/%22Get_it_on_F-droid%22_Badge.png"
     alt="Get it on F-Droid"
